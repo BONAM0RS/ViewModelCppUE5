@@ -1,3 +1,9 @@
+# git 
+.gitattributes
+
+# Resharper per user project options file
+ViewModelCppUE5.uproject.DotSettings
+
 # Visual Studio 2015 user specific files
 .vs/
 
