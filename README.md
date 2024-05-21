@@ -1,2 +1,2 @@
 # ViewModelCppUE5
- Just example of implementation of Viewmodel in C++
+ Just example of ViewModel implementation in C++
